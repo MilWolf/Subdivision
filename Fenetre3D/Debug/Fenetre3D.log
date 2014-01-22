@@ -1,0 +1,20 @@
+﻿La génération a démarré 21/01/2014 23:19:51.
+     1>Projet "D:\Documents\Projets imagerie\Subdivision Catmull-Clark\Fenetre3D\Fenetre3D.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I.\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Principal.cpp
+         Principal.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents\Projets imagerie\Subdivision Catmull-Clark\Debug\Fenetre3D.exe" /INCREMENTAL /NOLOGO /LIBPATH:.\lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Documents\Projets imagerie\Subdivision Catmull-Clark\Debug\Fenetre3D.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Documents\Projets imagerie\Subdivision Catmull-Clark\Debug\Fenetre3D.lib" /MACHINE:X86 Debug\Face.obj
+         Debug\HE_Face.obj
+         Debug\HE_HalfEdge.obj
+         Debug\HE_Vertex.obj
+         Debug\Mesh.obj
+         Debug\ObjHelper.obj
+         Debug\Principal.obj
+         Debug\Vertex.obj
+         Fenetre3D.vcxproj -> D:\Documents\Projets imagerie\Subdivision Catmull-Clark\Debug\Fenetre3D.exe
+     1>Génération du projet "D:\Documents\Projets imagerie\Subdivision Catmull-Clark\Fenetre3D\Fenetre3D.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.24
